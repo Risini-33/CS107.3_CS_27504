@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Lab7-2023.06.23\Q8\bin\Debug\Q8.exe.config
+C:\Users\HP\source\repos\Lab7-2023.06.23\Q8\bin\Debug\Q8.exe
+C:\Users\HP\source\repos\Lab7-2023.06.23\Q8\bin\Debug\Q8.pdb
+C:\Users\HP\source\repos\Lab7-2023.06.23\Q8\obj\Debug\Q8.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Lab7-2023.06.23\Q8\obj\Debug\Q8.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Lab7-2023.06.23\Q8\obj\Debug\Q8.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Lab7-2023.06.23\Q8\obj\Debug\Q8.exe
+C:\Users\HP\source\repos\Lab7-2023.06.23\Q8\obj\Debug\Q8.pdb
