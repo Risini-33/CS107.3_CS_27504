@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Lab7-2023.06.23\Q7\bin\Debug\Q7.exe.config
+C:\Users\HP\source\repos\Lab7-2023.06.23\Q7\bin\Debug\Q7.exe
+C:\Users\HP\source\repos\Lab7-2023.06.23\Q7\bin\Debug\Q7.pdb
+C:\Users\HP\source\repos\Lab7-2023.06.23\Q7\obj\Debug\Q7.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Lab7-2023.06.23\Q7\obj\Debug\Q7.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Lab7-2023.06.23\Q7\obj\Debug\Q7.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Lab7-2023.06.23\Q7\obj\Debug\Q7.exe
+C:\Users\HP\source\repos\Lab7-2023.06.23\Q7\obj\Debug\Q7.pdb
+C:\Users\HP\source\repos\Lab7-2023.07.07\Q7\bin\Debug\Q7.exe.config
+C:\Users\HP\source\repos\Lab7-2023.07.07\Q7\bin\Debug\Q7.exe
+C:\Users\HP\source\repos\Lab7-2023.07.07\Q7\bin\Debug\Q7.pdb
+C:\Users\HP\source\repos\Lab7-2023.07.07\Q7\obj\Debug\Q7.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Lab7-2023.07.07\Q7\obj\Debug\Q7.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Lab7-2023.07.07\Q7\obj\Debug\Q7.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Lab7-2023.07.07\Q7\obj\Debug\Q7.exe
+C:\Users\HP\source\repos\Lab7-2023.07.07\Q7\obj\Debug\Q7.pdb
